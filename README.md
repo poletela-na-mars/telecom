@@ -19,3 +19,5 @@ Colab:
 [lab7](https://colab.research.google.com/github/poletela-na-mars/telecom/blob/master/labs/lab7/lab7.ipynb)
 
 [lab8](https://colab.research.google.com/github/poletela-na-mars/telecom/blob/master/labs/lab8/lab8.ipynb)
+
+[lab9](https://colab.research.google.com/github/poletela-na-mars/telecom/blob/master/labs/lab9/lab9.ipynb)
